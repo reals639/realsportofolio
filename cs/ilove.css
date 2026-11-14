@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: auto;
+  background-color: #77010B;
+}
+
+body {
+  position: relative; 
+  min-height: 100vh;
+  padding-bottom: 300vw;
+}
+
+.frstthing{
+    position: absolute;
+    left: -80vw;
+    top: 40vw;
+    width: 80vw;
+}
+
+.scndtxt{
+    position: absolute;
+    left: -80vw;
+    top: 55vw;
+    width: 80vw;
+}
+
+.thrdthing{
+    position: absolute;
+    left: -80vw;
+    top: 90vw;
+    width: 80vw;
+}
+
+.frththing{
+    position: absolute;
+    left: -80vw;
+    top: 100vw;
+    width: 20vw;
+}
+
+.ffththing{
+    position: absolute;
+    left: -80vw;
+    top: 150vw;
+    width: 80vw;
+}
+
+.sixthing{
+    position: absolute;
+    left: -80vw;
+    top: 250vw;
+    width: 80vw;
+}

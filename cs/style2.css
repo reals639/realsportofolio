@@ -1,0 +1,58 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: hidden;
+  background-color: #1bf906;
+}
+
+body {
+  position: relative; 
+  min-height: 100vh;
+  padding-bottom: 300vw;
+}
+
+.musicbtn{
+   position: absolute;
+  width: 50vw;
+  left: -200vw;
+  top: 1vw;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+
+}
+
+.entr{
+  position: absolute;
+  width: 20vw;
+  left: 40vw;
+  top: 16vw;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.txt{
+  position: absolute;
+  width: 52vw;
+  left: -300vw;
+  top: 6vw;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.next{
+  position: absolute;
+  width: 15vw;
+  left: 100vw;
+  top: 30vw;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}

@@ -1,0 +1,83 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: auto;
+  background-color: #F9061B;
+}
+
+body {
+  position: relative; 
+  min-height: 100vh;
+  padding-bottom: 300vw;
+}
+
+.mainpage {
+  position: absolute;
+  height: auto;
+}
+
+.box1 {
+  width: 20vw;
+  top: -4vw;
+  left: -6vw;
+}
+
+.box2 {
+  width: 40vw;
+  top: -6vw;
+  left: 70vw;
+}
+
+.box3 {
+  width: 40vw;
+  top: 53vw;
+  left: 65vw;
+}
+
+.box4 {
+  width: 40vw;
+  top: 54vw;
+  left: -10vw;
+}
+
+.box5 {
+  width: 20vw;
+  top: 26vw;
+  left: 35vw;
+}
+
+.box6 {
+  width: 20vw;
+  top: -5vw;
+  left: 35vw;
+}
+
+.box7 {
+  width: 20vw;
+  top: 80vw;
+  left: 35vw;
+}
+
+.box8 {
+  width: 20vw;
+  top: 26vw;
+  left: -2vw;
+}
+
+.btn {
+  position: absolute;
+  width: 45vw;
+  bottom: 10vw;
+  left: -60vw;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.btn text{
+  font-family: 'Redaction 50', sans-serif;
+  font-weight: 700;
+}

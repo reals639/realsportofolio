@@ -1,0 +1,74 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: auto;
+  background-color: #061BF9;
+}
+
+body {
+  position: relative; 
+  min-height: 100vh;
+  padding-bottom: 300vw;
+}
+
+.frsttext{
+    position: absolute;
+    left: -80vw;
+    top: 40vw;
+    width: 80vw;
+}
+
+.scndtxt{
+    position: absolute;
+    left: -80vw;
+    top: 50vw;
+    width: 80vw;
+}
+
+.thrdthing{
+    position: absolute;
+    left: -80vw;
+    top: 90vw;
+    width: 80vw;
+}
+
+.frththing{
+    position: absolute;
+    left: -80vw;
+    top: 100vw;
+    width: 80vw;
+}
+
+.ffththing{
+    position: absolute;
+    left: -80vw;
+    top: 140vw;
+    width: 80vw;
+}
+
+.sixthing{
+    position: absolute;
+    left: -80vw;
+    top: 150vw;
+    width: 80vw;
+}
+
+.sevenththing{
+    position: absolute;
+    left: -80vw;
+    top: 190vw;
+    width: 80vw;
+}
+
+.eightthing{
+    position: absolute;
+    left: -80vw;
+    top: 280vw;
+    width: 80vw;
+}
+
+
+
+

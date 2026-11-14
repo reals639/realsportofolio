@@ -1,0 +1,108 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: hidden;
+  background-color: #061BF9;
+}
+
+body {
+  position: relative; 
+  min-height: 100vh;
+  padding-bottom: 300vw;
+}
+
+.imade {
+    position: absolute;
+    width: 20vw;
+    left: 20vw;
+}
+
+.ilove {
+    position: absolute;
+    width: 20vw;
+    left: 60vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.bridge {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 10vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.pelton {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 16vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.powersupply {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 22vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.greenhouse {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 28vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.AI {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 34vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.crosskart {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 40vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.gamedev {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 46vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.thiswebsite {
+    position: absolute;
+    width: 12vw;
+    left: 24vw;
+    top: 52vw;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
